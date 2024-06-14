@@ -1,7 +1,3 @@
-spring:
-  application:
-    name: Ujjwal-Server
-
 eureka:
   instance:
     prefer-ip-address: true
